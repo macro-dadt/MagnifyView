@@ -4,6 +4,10 @@
 ![](https://img.shields.io/badge/version-4.0-red.svg)
 
 ## About:
+| MagnifyView | 
+| ------------- | 
+| ![MagnifyView](ezgif.com-resize.gif) | 
+
 ## Installation:
 ### • CocoaPods
 LoginHelper is available through CocoaPods. To install it, simply add the following line to your Podfile:
